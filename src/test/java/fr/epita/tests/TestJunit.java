@@ -5,13 +5,14 @@ import org.junit.jupiter.api.Test;
 
 public class TestJunit {
 
+
     @Test
     public void testFactorial() {
         // given
         Integer number = 5;
 
         // when
-        Integer result = MathService.factorial(number);
+        Integer result = MathsService.factorial(number);
 
         // then
         Assertions.assertEquals(120, result);
