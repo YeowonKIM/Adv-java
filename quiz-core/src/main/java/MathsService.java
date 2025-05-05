@@ -1,5 +1,3 @@
-package fr.epita.maths;
-
 public class MathsService {
 
     public static Integer factorial(Integer number) {

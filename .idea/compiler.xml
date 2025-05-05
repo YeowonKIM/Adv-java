@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ad-java" />
+        <module name="quiz-core" />
+        <module name="quiz-rest" />
       </profile>
     </annotationProcessing>
   </component>

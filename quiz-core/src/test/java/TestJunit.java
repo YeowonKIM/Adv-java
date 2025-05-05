@@ -1,6 +1,3 @@
-package fr.epita.tests;
-
-import fr.epita.maths.MathsService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
